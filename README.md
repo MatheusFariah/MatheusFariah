@@ -10,7 +10,7 @@
   <strong>MATHEUS FARIA</strong><br>
   <sub>TypeScript Developer · CEO at Chrigores</sub>
 </p>
-<sub>Produtos digitais completos, APIs próprias e sistemas orientados por dados.</sub>
+<sub>Tecnologia com propósito. Pessoas no centro.</sub>
 <br><br>
 <a href="https://www.chrigores.com/" title="Chrigores">
   <img src="https://img.icons8.com/fluency/48/domain.png" width="23" alt="Website">
@@ -35,16 +35,34 @@
 
 <br>
 
-<strong>CHRIGORES</strong>
+<strong>NOSSO PROPÓSITO</strong>
 
-A [**Chrigores**](https://www.chrigores.com/) é a união de três desenvolvedores criando aplicações web, APIs próprias, integrações e sistemas adaptados a cada negócio.
+A [**Chrigores**](https://www.chrigores.com/) é a união de três desenvolvedores que transformam ideias em soluções capazes de melhorar o dia a dia de pessoas e negócios.
+
+Criamos aplicações, APIs próprias e sistemas que organizam processos, reduzem tarefas repetitivas e devolvem tempo para o que realmente importa.
 
 <div align="center">
-<code>Web</code>
-<code>APIs</code>
+<code>Pessoas</code>
+<code>Tecnologia</code>
+<code>Impacto</code>
+</div>
+
+<br>
+
+<strong>COMO ATUAMOS</strong>
+
+<sub>
+Colocamos pessoas no centro das decisões, utilizamos tecnologia de forma estratégica e construímos soluções modernas, eficientes e preparadas para evoluir.
+</sub>
+
+<br><br>
+
+<div align="center">
+<code>Aplicações web</code>
+<code>APIs próprias</code>
 <code>Integrações</code>
 <code>Dados</code>
-<code>Sistemas</code>
+<code>Sistemas de gestão</code>
 </div>
 
 <br>
@@ -67,7 +85,7 @@ A [**Chrigores**](https://www.chrigores.com/) é a união de três desenvolvedor
 <br>
 
 <div align="center">
-<sub>Disponíveis para novos projetos, parcerias e desafios.</sub>
-<br>
+<strong>Tem um problema para resolver?</strong><br>
+<sub>Podemos construir a solução.</sub><br>
 <a href="https://www.chrigores.com/"><strong>Conheça a Chrigores →</strong></a>
 </div>
