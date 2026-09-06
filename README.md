@@ -4,11 +4,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/chrigores-dark.png"
+      srcset="./assets/chr-dark.png"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./assets/chrigores-light.png"
+      srcset="./assets/chr-white.png"
     />
     <img
       src="./assets/chrigores-light.png"
