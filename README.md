@@ -4,11 +4,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/chr-white.png"
+      srcset="./assets/chr-dark.png"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./assets/chr-black.png"
+      srcset="./assets/chr-white.png"
     />
     <img
       src="./assets/chr-black.png"
@@ -88,4 +88,3 @@ Trabalhamos em conjunto no desenvolvimento de aplicações completas, APIs próp
 ![Next.js](https://img.shields.io/badge/Next.js-052E16?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-14532D?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-166534?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15803D?style=for-the-badge&logo=postgresql&logoColor=white)
