@@ -4,14 +4,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/chrigores-dark.png"
+      srcset="./assets/chr-white.png"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./assets/chrigores-light.png"
+      srcset="./assets/chr-black.png"
     />
     <img
-      src="./assets/chrigores-light.png"
+      src="./assets/chr-black.png"
       alt="Chrigores"
       width="280"
     />
@@ -23,37 +23,57 @@
 <strong>TypeScript Developer • CEO at Chrigores</strong>
 
 <p>
-  Liderando três desenvolvedores na criação de aplicações completas,<br>
+  Três desenvolvedores trabalhando em conjunto para criar aplicações completas,<br>
   APIs próprias e sistemas orientados por dados.
 </p>
 
 <a href="https://www.chrigores.com/">
-  <img src="https://cdn.simpleicons.org/googlechrome/22C55E" width="27" alt="Website" />
+  <img
+    src="https://img.icons8.com/ios-filled/50/22c55e/domain.png"
+    width="29"
+    alt="Chrigores"
+  />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/matheus-faria-5a75202bb/">
-  <img src="https://cdn.simpleicons.org/linkedin/22C55E" width="27" alt="LinkedIn" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    width="29"
+    alt="LinkedIn"
+  />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/the_matheusf4ria/">
-  <img src="https://cdn.simpleicons.org/instagram/22C55E" width="27" alt="Instagram" />
+  <img
+    src="https://img.icons8.com/ios-filled/50/22c55e/instagram-new.png"
+    width="29"
+    alt="Instagram"
+  />
 </a>
 &nbsp;&nbsp;
 <a href="COLOQUE-SEU-FACEBOOK">
-  <img src="https://cdn.simpleicons.org/facebook/22C55E" width="27" alt="Facebook" />
+  <img
+    src="https://img.icons8.com/ios-filled/50/22c55e/facebook-new.png"
+    width="29"
+    alt="Facebook"
+  />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:COLOQUE-SEU-EMAIL">
-  <img src="https://cdn.simpleicons.org/gmail/22C55E" width="27" alt="Email" />
+  <img
+    src="https://img.icons8.com/ios-filled/50/22c55e/new-post.png"
+    width="29"
+    alt="Email"
+  />
 </a>
 
 </div>
 
 ## Chrigores
 
-Sou desenvolvedor e CEO da [**Chrigores**](https://www.chrigores.com/), uma empresa de tecnologia formada por três desenvolvedores.
+Sou desenvolvedor e CEO da [**Chrigores**](https://www.chrigores.com/), uma empresa de tecnologia construída pela união de três desenvolvedores.
 
-Criamos aplicações completas, conectando interfaces modernas, APIs próprias, bancos de dados e regras de negócio em soluções confiáveis, escaláveis e preparadas para produção.
+Trabalhamos em conjunto no desenvolvimento de aplicações completas, APIs próprias, bancos de dados e soluções adaptadas às necessidades de cada negócio.
 
 ### Atuação
 
