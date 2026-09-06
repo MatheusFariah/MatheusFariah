@@ -13,80 +13,134 @@
     <img
       src="./assets/chr-black.png"
       alt="Chrigores"
-      width="280"
+      width="240"
     />
   </picture>
 </a>
 
-<h2>Matheus Faria</h2>
+<br>
 
-<strong>TypeScript Developer • CEO at Chrigores</strong>
+<strong>MATHEUS FARIA</strong>
+
+<br><br>
+
+<code>TypeScript Developer</code>
+<code>CEO at Chrigores</code>
 
 <p>
-  Três desenvolvedores trabalhando em conjunto para criar aplicações completas,<br>
-  APIs próprias e sistemas orientados por dados.
+  Atuo junto a outros dois desenvolvedores na construção de produtos digitais completos, da interface às APIs e aos dados.
 </p>
 
-<a href="https://www.chrigores.com/">
+<a href="https://www.chrigores.com/" title="Chrigores">
   <img
-    src="https://img.icons8.com/ios-filled/50/22c55e/domain.png"
-    width="29"
-    alt="Chrigores"
+    src="https://img.icons8.com/fluency/48/domain.png"
+    width="28"
+    alt="Website"
   />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/matheus-faria-5a75202bb/">
+<a href="https://www.linkedin.com/in/matheus-faria-5a75202bb/" title="LinkedIn">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-    width="29"
+    width="28"
     alt="LinkedIn"
   />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/the_matheusf4ria/">
+<a href="https://www.instagram.com/f4riamatheus/" title="Instagram">
   <img
-    src="https://img.icons8.com/ios-filled/50/22c55e/instagram-new.png"
-    width="29"
+    src="https://img.icons8.com/fluency/48/instagram-new.png"
+    width="28"
     alt="Instagram"
   />
 </a>
 &nbsp;&nbsp;
-<a href="COLOQUE-SEU-FACEBOOK">
+<a href="https://www.facebook.com/share/1Dhh4xXuCQ/?mibextid=wwXIfr" title="Facebook">
   <img
-    src="https://img.icons8.com/ios-filled/50/22c55e/facebook-new.png"
-    width="29"
+    src="https://img.icons8.com/color/48/facebook-new.png"
+    width="28"
     alt="Facebook"
   />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:COLOQUE-SEU-EMAIL">
+<a href="mailto:matheusfariaalmeida@hotmail.com" title="Email">
   <img
-    src="https://img.icons8.com/ios-filled/50/22c55e/new-post.png"
-    width="29"
+    src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png"
+    width="28"
     alt="Email"
   />
 </a>
 
 </div>
 
-## Chrigores
+<br>
 
-Sou desenvolvedor e CEO da [**Chrigores**](https://www.chrigores.com/), uma empresa de tecnologia construída pela união de três desenvolvedores.
+---
 
-Trabalhamos em conjunto no desenvolvimento de aplicações completas, APIs próprias, bancos de dados e soluções adaptadas às necessidades de cada negócio.
+<strong>CHRIGORES</strong>
 
-### Atuação
+<p>
+  A <a href="https://www.chrigores.com/"><strong>Chrigores</strong></a> nasce da união de três desenvolvedores que trabalham lado a lado na criação de soluções digitais.
+</p>
 
-![Web](https://img.shields.io/badge/APLICAÇÕES_WEB-052E16?style=for-the-badge)
-![APIs](https://img.shields.io/badge/APIs_PRÓPRIAS-14532D?style=for-the-badge)
-![Integrations](https://img.shields.io/badge/INTEGRAÇÕES-166534?style=for-the-badge)
-![Data](https://img.shields.io/badge/DADOS-15803D?style=for-the-badge)
-![Systems](https://img.shields.io/badge/SISTEMAS_DE_GESTÃO-16A34A?style=for-the-badge)
+<p>
+  Desenvolvemos aplicações web, APIs próprias, integrações, bancos de dados e sistemas de gestão adaptados às necessidades de cada negócio.
+</p>
 
-### Tecnologias
+<div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<img src="https://img.shields.io/badge/APLICAÇÕES_WEB-052E16?style=flat-square" alt="Aplicações web">
+<img src="https://img.shields.io/badge/APIs_PRÓPRIAS-14532D?style=flat-square" alt="APIs próprias">
+<img src="https://img.shields.io/badge/INTEGRAÇÕES-166534?style=flat-square" alt="Integrações">
+<img src="https://img.shields.io/badge/DADOS-15803D?style=flat-square" alt="Dados">
+<img src="https://img.shields.io/badge/SISTEMAS_DE_GESTÃO-16A34A?style=flat-square" alt="Sistemas de gestão">
+
+</div>
+
+<br>
+
+---
+
+<strong>TECNOLOGIAS</strong>
+
+<br><br>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=nextjs,ts,nestjs,python,supabase&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=nextjs,ts,nestjs,python,supabase&theme=light"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=nextjs,ts,nestjs,python,supabase&theme=dark"
+    alt="Next.js, TypeScript, NestJS, Python e Supabase"
+  />
+</picture>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<strong>Disponíveis para novos projetos, parcerias e desafios.</strong>
+
+<p>
+  Da ideia à publicação, construímos soluções completas e preparadas para evoluir.
+</p>
+
+<a href="https://www.chrigores.com/">
+  <img
+    src="https://img.shields.io/badge/CONHEÇA_A_CHRIGORES-16A34A?style=for-the-badge"
+    alt="Conheça a Chrigores"
+  />
+</a>
+
+</div>
