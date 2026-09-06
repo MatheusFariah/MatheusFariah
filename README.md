@@ -4,7 +4,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/chr-dark.png"
+      srcset="./assets/chr-black.png"
     />
     <source
       media="(prefers-color-scheme: light)"
