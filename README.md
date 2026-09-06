@@ -1,12 +1,41 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:15803d,100:4ade80&height=160&section=header&text=Matheus%20Faria&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=CEO%20at%20Chrigores%20%7C%20Software%20%26%20Data&descAlignY=58&descSize=16" />
+<a href="https://www.chrigores.com/">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/chrigores-dark.png"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/chrigores-light.png"
+    />
+    <img
+      src="./assets/chrigores-light.png"
+      alt="Chrigores"
+      width="340"
+    />
+  </picture>
+</a>
 
-[![Chrigores](https://img.shields.io/badge/CHRIGORES-16A34A?style=for-the-badge&logoColor=white)](https://www.chrigores.com/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-15803D?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE-SEU-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-166534?style=for-the-badge&logo=instagram&logoColor=white)](COLOQUE-SEU-INSTAGRAM)
+<h1>Matheus Faria</h1>
+
+<p>
+  <strong>TypeScript Developer & CEO at Chrigores</strong>
+</p>
+
+<p>
+  Liderando três desenvolvedores na criação de produtos completos,<br>
+  APIs próprias e sistemas orientados por dados.
+</p>
+
+[![Website](https://img.shields.io/badge/CHRIGORES-16A34A?style=for-the-badge&logoColor=white)](https://www.chrigores.com/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-15803D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-faria-5a75202bb/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-166534?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_matheusf4ria/)
 
 </div>
+
+---
 
 ## Chrigores
 
