@@ -37,8 +37,7 @@
 
 <strong>CHRIGORES</strong>
 
-A [**Chrigores**](https://www.chrigores.com/) é a união de três desenvolvedores criando aplicações web, APIs próprias, integrações e sistemas adaptados a cada negócio.
-
+A Chrigores nasceu da união de três desenvolvedores e da vontade de transformar ideias em soluções que fazem diferença no dia a dia. Criamos aplicações, APIs próprias, integrações e sistemas que organizam processos, eliminam tarefas repetitivas e devolvem tempo para pessoas e negócios.
 <div align="center">
 <code>Web</code>
 <code>APIs</code>
