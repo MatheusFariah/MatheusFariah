@@ -1,104 +1,39 @@
 <div align="center">
 
-# Matheus Faria
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:15803d,100:4ade80&height=160&section=header&text=Matheus%20Faria&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=CEO%20at%20Chrigores%20%7C%20Software%20%26%20Data&descAlignY=58&descSize=16" />
 
-### CEO da [Chrigores](https://www.chrigores.com/)
-
-Três desenvolvedores transformando necessidades reais em produtos digitais completos.
-
-[![Chrigores](https://img.shields.io/badge/CONHEÇA_A_CHRIGORES-16a34a?style=for-the-badge)](https://www.chrigores.com/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE-SEU-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](COLOQUE-SEU-INSTAGRAM)
+[![Chrigores](https://img.shields.io/badge/CHRIGORES-16A34A?style=for-the-badge&logoColor=white)](https://www.chrigores.com/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-15803D?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE-SEU-LINKEDIN)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-166534?style=for-the-badge&logo=instagram&logoColor=white)](COLOQUE-SEU-INSTAGRAM)
 
 </div>
-
----
-
-## Sobre mim
-
-Sou desenvolvedor e CEO da **Chrigores**, uma empresa de tecnologia formada por três desenvolvedores focados na criação de soluções digitais completas.
-
-Atuo na definição dos produtos, arquitetura das aplicações e desenvolvimento de plataformas que conectam interfaces modernas, APIs próprias, bancos de dados e regras reais de negócio.
-
-Nosso trabalho não termina na aparência: construímos toda a estrutura necessária para que cada produto funcione com desempenho, segurança, confiabilidade e capacidade de evolução.
 
 ## Chrigores
 
-A **Chrigores** reúne três desenvolvedores com um único objetivo: transformar problemas reais de empresas em produtos digitais eficientes.
+Sou desenvolvedor e CEO da [**Chrigores**](https://www.chrigores.com/), uma empresa de tecnologia formada por três desenvolvedores.
 
-Desenvolvemos cada projeto de ponta a ponta:
+Criamos produtos digitais completos, conectando interfaces modernas, APIs próprias, bancos de dados e regras de negócio em soluções confiáveis, escaláveis e preparadas para uso real.
 
-| Engenharia | Produto |
-|---|---|
-| Aplicações web responsivas | Experiências pensadas para o usuário |
-| APIs próprias e integrações | Regras específicas para cada negócio |
-| Bancos de dados estruturados | Informações organizadas e confiáveis |
-| Autenticação e segurança | Controle de usuários e permissões |
-| Painéis administrativos | Gestão completa das operações |
-| Publicação e infraestrutura | Produtos disponíveis em produção |
+## Nossa atuação
 
-Toda aplicação é construída sobre uma arquitetura própria, sem depender apenas de serviços prontos ou soluções genéricas. Desenvolvemos as interfaces, APIs, bancos de dados, processos internos e integrações necessárias para cada operação.
-
-## Nosso time
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>Matheus Faria</strong><br>
-      CEO & Developer<br>
-      Produto, arquitetura e desenvolvimento
-    </td>
-    <td align="center" width="33%">
-      <strong>NOME DO SEGUNDO MEMBRO</strong><br>
-      Developer<br>
-      Especialidade do desenvolvedor
-    </td>
-    <td align="center" width="33%">
-      <strong>NOME DO TERCEIRO MEMBRO</strong><br>
-      Developer<br>
-      Especialidade do desenvolvedor
-    </td>
-  </tr>
-</table>
-
-Três desenvolvedores participando diretamente das decisões, da engenharia e da evolução de cada produto entregue.
-
-## Projeto em destaque
-
-### Supermercado Marcinho
-
-[![Acessar projeto](https://img.shields.io/badge/ACESSAR_PROJETO-FACC15?style=for-the-badge&logoColor=black)](https://www.supermercadomarcinho.com/)
-
-Plataforma completa de compras on-line desenvolvida para conectar o supermercado aos seus clientes e permitir que todo o processo seja realizado pela internet.
-
-O produto integra:
-
-- Catálogo e pesquisa de produtos
-- Categorias, ofertas e preços
-- Cadastro e autenticação de clientes
-- Carrinho e finalização de pedidos
-- Endereços e opções de entrega
-- Painel administrativo
-- Gestão de produtos e pedidos
-- API própria desenvolvida pela Chrigores
-- Banco de dados e regras específicas do supermercado
-
-O projeto demonstra nossa capacidade de compreender uma operação existente e transformá-la em um produto digital completo, acessível e preparado para uso real.
+![Web Applications](https://img.shields.io/badge/APLICAÇÕES_WEB-052E16?style=for-the-badge)
+![Custom APIs](https://img.shields.io/badge/APIs_PRÓPRIAS-14532D?style=for-the-badge)
+![Integrations](https://img.shields.io/badge/INTEGRAÇÕES-166534?style=for-the-badge)
+![Data](https://img.shields.io/badge/DADOS-15803D?style=for-the-badge)
+![Management Systems](https://img.shields.io/badge/SISTEMAS_DE_GESTÃO-16A34A?style=for-the-badge)
+![Infrastructure](https://img.shields.io/badge/INFRAESTRUTURA-22C55E?style=for-the-badge)
 
 ## Tecnologias
 
-<div align="left">
+![Next.js](https://img.shields.io/badge/Next.js-052E16?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-14532D?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-166534?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15803D?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-16A34A?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
+
+### Três desenvolvedores. Produtos completos. Engenharia própria.
+
+[**Conheça a Chrigores →**](https://www.chrigores.com/)
 
 </div>
-
-## Vamos construir algo?
-
-A Chrigores desenvolve aplicações, plataformas e sistemas personalizados para empresas que precisam transformar suas operações em produtos digitais.
-
-[**Conheça nossos projetos e entre em contato →**](https://www.chrigores.com/)
