@@ -41,7 +41,7 @@
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/matheus-faria-5a75202bb/" title="LinkedIn">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
     width="28"
     alt="LinkedIn"
   />
@@ -89,11 +89,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/APLICAÇÕES_WEB-052E16?style=flat-square" alt="Aplicações web">
-<img src="https://img.shields.io/badge/APIs_PRÓPRIAS-14532D?style=flat-square" alt="APIs próprias">
-<img src="https://img.shields.io/badge/INTEGRAÇÕES-166534?style=flat-square" alt="Integrações">
-<img src="https://img.shields.io/badge/DADOS-15803D?style=flat-square" alt="Dados">
-<img src="https://img.shields.io/badge/SISTEMAS_DE_GESTÃO-16A34A?style=flat-square" alt="Sistemas de gestão">
+<code>Aplicações web</code>
+<code>APIs próprias</code>
+<code>Integrações</code>
+<code>Dados</code>
+<code>Sistemas de gestão</code>
 
 </div>
 
@@ -107,20 +107,51 @@
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=nextjs,ts,nestjs,python,supabase&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=nextjs,ts,nestjs,python,supabase&theme=light"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=nextjs,ts,nestjs,python,supabase&theme=dark"
-    alt="Next.js, TypeScript, NestJS, Python e Supabase"
-  />
-</picture>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+  width="48"
+  height="48"
+  alt="Next.js"
+  title="Next.js"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+  width="48"
+  height="48"
+  alt="TypeScript"
+  title="TypeScript"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
+  width="48"
+  height="48"
+  alt="NestJS"
+  title="NestJS"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  width="48"
+  height="48"
+  alt="Python"
+  title="Python"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
+  width="48"
+  height="48"
+  alt="Supabase"
+  title="Supabase"
+/>
+
+<br><br>
+
+<sub>
+  Next.js · TypeScript · NestJS · Python · Supabase
+</sub>
 
 </div>
 
@@ -137,10 +168,7 @@
 </p>
 
 <a href="https://www.chrigores.com/">
-  <img
-    src="https://img.shields.io/badge/CONHEÇA_A_CHRIGORES-16A34A?style=for-the-badge"
-    alt="Conheça a Chrigores"
-  />
+  <strong>CONHEÇA A CHRIGORES →</strong>
 </a>
 
 </div>
